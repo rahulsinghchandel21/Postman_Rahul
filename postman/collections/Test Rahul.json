@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "c15a8341-862a-4721-b583-68045c256a13",
+		"name": "Test Rahul",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "25243114-c15a8341-862a-4721-b583-68045c256a13"
+	},
+	"item": [
+		{
+			"name": "Get User",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a5253a83-cb43-4c96-b2fe-92bc9dda391e",
+						"exec": [
+							"// Test Code for learning"
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"id": "8f184254-0d53-43f5-8954-ead053908bff",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
